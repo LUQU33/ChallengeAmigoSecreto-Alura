@@ -15,4 +15,4 @@ Está desarrollado con HTML, CSS y JavaScript puro.
 
 Ya desplegado en Github Pages para su uso!
 
-## 🔗 Link: https://luqu33.github.io/ChallengeAmigoSecreto-Alura
+🔗[Link](https://luqu33.github.io/ChallengeAmigoSecreto-Alura)
